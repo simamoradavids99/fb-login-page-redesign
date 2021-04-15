@@ -1,0 +1,45 @@
+.row{
+    margin-top: 150px;
+}
+
+h1{
+    font-size: 70px;
+    color:#4267B2;
+}
+
+input{
+    margin-top:10px;
+
+}
+button{
+    margin-top: 10px;
+}
+
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+a{
+    display: block;
+    margin-top: 10px;
+}
+
+.btn-success{
+    display: block;
+    margin-left: 110px;
+}
+
+.center{
+    text-align: center;
+    font-size: 20px;
+}
+
+.logo{
+    font-family: 'Archivo Black', sans-serif;
+}
